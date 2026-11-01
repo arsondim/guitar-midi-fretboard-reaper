@@ -16,6 +16,9 @@ Create MIDI notes directly from an interactive fretboard, experiment with differ
 - Customizable note length, velocity and quantization
 - Dark, modern interface
 
+### Download
+[⬇ Download Guitar MIDI Fretboard](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/Guitar_MIDI_Fretboard.lua)
+
 ### Installation
 
 1. Download the `.lua` script.
