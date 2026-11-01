@@ -1,4 +1,4 @@
-# 🎸 Guitar MIDI Fretboard
+# 🎸 Guitar MIDI Fretboard .lua for Reaper
 
 A free and customizable Lua ReaScript for **REAPER DAW**, designed to make writing guitar and bass MIDI faster and more intuitive.
 
