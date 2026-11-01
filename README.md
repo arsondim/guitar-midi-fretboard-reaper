@@ -17,7 +17,7 @@ Create MIDI notes directly from an interactive fretboard, experiment with differ
 - Dark, modern interface
 
 ### Download
-[⬇ Download Guitar MIDI Fretboard](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/Guitar_MIDI_Fretboard.lua)
+[⬇ Download Guitar MIDI Fretboard](https://github.com/arsondim/guitar-midi-fretboard-reaper/main/Guitar_MIDI_Fretboard.lua)
 
 ### Installation
 
