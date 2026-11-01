@@ -4,6 +4,8 @@ A free and customizable Lua ReaScript for **REAPER DAW**, designed to make writi
 
 Create MIDI notes directly from an interactive fretboard, experiment with different tunings, and control instrument articulations without relying entirely on the traditional piano roll.
 
+![Guitar MIDI Fretboard Preview](preview.png)
+
 ### Features
 
 - Interactive fretboard with direct MIDI note insertion
